@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janak
-- 👀 I’m interested in backend web development using laravel
+- 👀 I’m interested in backend web development using java
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Laravel projects
 - 📫 How to reach me, contact me at my linkedin
