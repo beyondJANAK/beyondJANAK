@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janak
 - 👀 I’m interested in backend web development using java
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on Spring Boot projects
 - 📫 How to reach me, contact me at my linkedin
 
